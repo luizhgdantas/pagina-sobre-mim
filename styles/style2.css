@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+/* Estilos para os blocos de conteúdo conforme o design do Figma */
+
+
+strong{
+    color: #00C6EA;
+}
+
+.titulo-destaque{
+    color: #3b7607;
+}
+
+.urgente{
+    color: #ff0000;
+}
+
+p{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    content: 0;
+}
