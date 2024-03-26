@@ -118,3 +118,22 @@ body{
     font-size: 24px;
     font-weight: 400;
 }
+
+@media (max-width: 1300px){
+    .cabecalho{
+        padding: 10%;
+    }
+
+    .cabecalho__menu{
+        justify-content: center;
+    }
+    
+    .apresentacao{
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .apresentacao__conteudo{
+        width: auto;
+    }
+}
